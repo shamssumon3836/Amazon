@@ -1,0 +1,146 @@
+/* Small devices (landscape phones, 576px and up) */
+@media (max-width: 768px) { 
+
+.top-ment-content-4 {
+    visibility: hidden;
+    overflow: hidden;
+    display: none;
+}
+
+.top-ment-content-5 {
+    visibility: hidden;
+    overflow: hidden;
+    display: none;
+}
+
+.top-ment-content-7 {
+    padding-right: 20px;
+}
+
+.top-ment-content-6 {
+visibility: hidden;
+    overflow: hidden;
+    display: none;
+}
+
+
+.container-fluid.logo-main {
+    background-color: #232f3e;
+}
+
+.logo-top-main {
+    width: 15%;
+    padding: 10px 0px 10px 0px;
+    visibility:
+visible;
+    overflow: visible;
+}
+
+.toggle.hc-nav-trigger.hc-nav-1 {
+    margin-top: 6.8vw;
+}
+
+.secend-menu {
+    visibility: hidden;
+    overflow: hidden;
+    display: none;
+}
+
+
+.logo-top {
+    visibility: hidden;
+    overflow: hidden;
+    display: none;
+}
+
+.search_bar.larger {
+    max-width: 634px;
+}
+
+.top-ment-content-3 {
+    width: 400%;
+}
+
+.Amazon-global-product.gp {
+    height: 300px;
+}
+
+.AmazonBasics {
+    width: 100%;
+}
+
+
+.Amazon-global-product.pg {
+    height: 120px;
+}
+
+
+.main-carousel-pic {
+    width: 100% !important;
+    height: 600px;
+    overflow: hidden;
+    background-size: cover;
+}
+
+
+.carousel-item.active {
+    height: 225px;
+    overflow: hidden;
+}
+
+
+.hc-nav-trigger {
+    padding: 35px 0px 0px 0px;
+    height: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+@media (min-width: 768px) { 
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
