@@ -32,9 +32,7 @@
     background-color: #485769;
 }
 
-#footer-top {
-    background-color: #232F3E;
-}
+
 
 
 ul{
@@ -290,14 +288,14 @@ li .ascs {
     padding-top: 6px;
 }
 
-.Amazon-global-product {
+.in-global-product {
     background-color: white;
     height: 420px;
     width: 100%;
     padding: 15px;
 }
 
-.amazon-global-stock-product {
+.in-global-stock-product {
     padding: 20px;
     padding-top: 215px;
 }
@@ -314,7 +312,7 @@ li .ascs {
     padding-bottom: 20px !important;
 }
 
-.amazon-global-stock {
+.in-global-stock {
     padding: 10px;
 }
 
@@ -334,7 +332,7 @@ li .ascs {
     background-color: rgba(0,164,180,.05);
 }
 
-.AmazonBasics {
+.inBasics {
     width: 285px;
     height: 300px;
     object-fit: cover;
@@ -347,7 +345,7 @@ li .ascs {
     padding: 10px;
 }
 
-.amazon-ctgry{
+.in-ctgry{
   padding: 1px;
 }
 
@@ -762,7 +760,7 @@ font-weight: 700;
     margin-left: 20px;
 }
 
-.returns-amazon-order:hover {
+.returns-in-order:hover {
     text-decoration: navajowhite;
 }
 
@@ -839,4 +837,16 @@ font-weight: 700;
 .main-carousel-pic {
     background-size: cover;
     height: 535px;
+}
+
+.navbar-nav {
+    margin-left: 250px;
+}
+
+span.returns-in {
+    color: #ccc;
+}
+
+#footer-top {
+    background-color: #232F3E;
 }

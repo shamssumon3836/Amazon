@@ -343,7 +343,7 @@
 }
 .hc-offcanvas-nav li.nav-close a:hover,
 .hc-offcanvas-nav li.nav-back a:hover {
- background:#2b5c8d
+ background:#fff;
 }
 .hc-offcanvas-nav li.nav-close:not(:first-child) a,
 .hc-offcanvas-nav li.nav-back:not(:first-child) a {
@@ -1216,4 +1216,8 @@ main .button.active {
 
 .nav-wrapper.nav-wrapper-2 {
     width: 360px;
+}
+
+.nav-item-wrapper:active {
+    background-color: #dfdfdf;
 }

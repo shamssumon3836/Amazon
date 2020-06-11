@@ -1,4 +1,26 @@
 /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 1400px) { 
+.toggle.hc-nav-trigger.hc-nav-1 {
+    margin-top: 2px;
+}
+}
+
+
+@media (max-width: 1000px) { 
+.nav-item.nav-link.ture.my-2 {
+    padding-left: 10px;
+}
+
+}
+@media (min-width: 800px) { 
+
+.toggle.hc-nav-trigger.hc-nav-1 {
+    margin-top: 2px;
+}
+
+
+
+}
 @media (max-width: 768px) { 
 
 .top-ment-content-4 {
@@ -37,7 +59,7 @@ visible;
 }
 
 .toggle.hc-nav-trigger.hc-nav-1 {
-    margin-top: 6.8vw;
+    margin-top: 6.9vw;
 }
 
 .secend-menu {
@@ -61,16 +83,16 @@ visible;
     width: 400%;
 }
 
-.Amazon-global-product.gp {
+.in-global-product.gp {
     height: 300px;
 }
 
-.AmazonBasics {
+.inBasics {
     width: 100%;
 }
 
 
-.Amazon-global-product.pg {
+.in-global-product.pg {
     height: 120px;
 }
 
@@ -95,23 +117,114 @@ visible;
 }
 
 
+.navbar-nav {
+    margin-left: 264px;
+}
 
 
+.toggle.hc-nav-trigger.hc-nav-1 {
+}
+
+.navbar-nav {
+    margin-left: 100px;
+}
 
 
+#footer-bottom .d-flex.justify-content-center.pt-4.pb-3 {
+    padding-left: 15px;
+}
 
 
+}
+@media (max-width: 600px) { 
 
 
+.toggle.hc-nav-trigger.hc-nav-1 {
+    margin-top: 7.9vw;
+}
+
+.navbar-nav {
+    margin-left: 180px;
+}
+
+}
+@media (max-width: 500px) { 
+.toggle.hc-nav-trigger.hc-nav-1 {
+    margin-top: 9.1vw;
+}
+
+
+}
+
+
+@media (max-width: 438px) { 
+
+.toggle.hc-nav-trigger.hc-nav-1 {
+    margin-top: 37.5px;
+}
+
+@media (max-width: 414px) { 
+
+.toggle.hc-nav-trigger.hc-nav-1 {
+    margin-top: 9.1vw;
+}
+
+.navbar-nav {
+    margin-left: 120px;
+}
+
+
+.toggle.hc-nav-trigger.hc-nav-1 {
+    margin-top: 9.5vw;
+}
 
 
 }
 
 
 
-@media (min-width: 768px) { 
 
 
+}
+@media (max-width: 412px) { 
+
+
+.toggle.hc-nav-trigger.hc-nav-1 {
+    margin-top: 9.1vw;
+}
+
+.navbar-nav {
+    margin-left: 120px;
+}
+
+}
+@media (max-width: 375px) { 
+
+.toggle.hc-nav-trigger.hc-nav-1 {
+    margin-top: 9.7vw;
+}
+
+}
+@media (max-width: 360px) { 
+
+.toggle.hc-nav-trigger.hc-nav-1 {
+    margin-top: 9.5vw;
+}
+
+.navbar-nav {
+    margin-left: 95px;
+}
+
+}
+@media (max-width: 320px) { 
+
+.toggle.hc-nav-trigger.hc-nav-1 {
+    margin-top: 10.2vw;
+}
+
+.navbar-nav {
+    margin-left: 76px;
+}
 
 
 }
@@ -141,6 +254,3 @@ visible;
 
 
 
-
-
-}
